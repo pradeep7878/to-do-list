@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react'
+import React, { useRef } from 'react'
 
 const AddItem = ({newItem,setNewItem,handleSubmit}) => {
 
